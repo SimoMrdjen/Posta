@@ -18,6 +18,10 @@ public class Main {
      System.out.println("Line from remote !!!!!");   
         
 
+   System.out.println("Line added from local repo");
+
+   System.out.println("Extra added line from remote");
+
     }
 }
 //   double marsWeight = Planet.MARS.mass();
