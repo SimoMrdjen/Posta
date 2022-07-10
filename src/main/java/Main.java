@@ -14,6 +14,8 @@ public class Main {
 
 
    System.out.println("Hello Simo");
+   System.out.println("Added new line in remote for exercises");
+        
 
     }
 }
