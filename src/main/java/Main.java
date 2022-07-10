@@ -12,6 +12,8 @@ import java.util.stream.Stream;
 public class Main {
     public static void main(String[] args) {
 
+   System.out.println("Line for merging!!!!!!!!!");
+        
    System.out.println("Line for rebasing from local!!!!!!!!");
    System.out.println("Hello Simo");
    System.out.println("Added new line in remote for exercises");
