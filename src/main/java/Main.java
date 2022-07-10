@@ -12,11 +12,17 @@ import java.util.stream.Stream;
 public class Main {
     public static void main(String[] args) {
 
-
+   System.out.println("Line for merging!!!!!!!!!");
+        
+   System.out.println("Line for rebasing from local!!!!!!!!");
    System.out.println("Hello Simo");
    System.out.println("Added new line in remote for exercises");
      System.out.println("Line from remote !!!!!");   
         
+
+   System.out.println("Line added from local repo");
+
+   System.out.println("Extra added line from remote");
 
     }
 }
